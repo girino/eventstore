@@ -1,5 +1,6 @@
 module github.com/girino/eventstore
 
+
 go 1.23.0
 
 require (
