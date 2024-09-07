@@ -1,4 +1,4 @@
-module github.com/fiatjaf/eventstore
+module github.com/girino/eventstore
 
 go 1.23.0
 
