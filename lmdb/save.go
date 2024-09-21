@@ -7,7 +7,7 @@ import (
 
 	"github.com/PowerDNS/lmdb-go/lmdb"
 	"github.com/fiatjaf/eventstore"
-	bin "github.com/fiatjaf/eventstore/internal/binary"
+	bin "github.com/girino/eventstore/internal/binary"
 	"github.com/nbd-wtf/go-nostr"
 )
 

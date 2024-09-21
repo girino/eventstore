@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 
 	"github.com/PowerDNS/lmdb-go/lmdb"
-	bin "github.com/fiatjaf/eventstore/internal/binary"
+	bin "github.com/girino/eventstore/internal/binary"
 	"github.com/nbd-wtf/go-nostr"
 )
 
